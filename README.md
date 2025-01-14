@@ -1,5 +1,5 @@
 # Olá, me chamo Thais Marques ! 
-## Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil GitHub 👋
 
 ## Ferramentas e Tecnologias
 
