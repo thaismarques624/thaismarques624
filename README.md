@@ -11,7 +11,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thaismarques624&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/thaismarques624/thaismarques624/blob/output/github-contribution-grid-snake.svg)
+
 
           
 
