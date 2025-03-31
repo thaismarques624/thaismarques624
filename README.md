@@ -9,7 +9,7 @@
 ##
 <div>
 <a href="https://github.com/thaismarques624">
-<img loading="lazy" height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
