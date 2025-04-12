@@ -4,7 +4,6 @@
   </a>
 </div> 
 
-#
 🎲Data Engineer and Analytics sharing my projects with the tech world<br/>
 🎲Studying Computer Engineer at Federal University of Paraiba - Brasil<br/>
 🎲Currently learning about data, universe and rocket engines (propulsion🚀)<br/>
@@ -13,7 +12,6 @@
 #
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=thaismarques624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-#
 
 # 💻 Tech Stack
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
