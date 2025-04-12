@@ -11,7 +11,12 @@
 >**You'll do better if you make other people want to learn - Katherine Johnson**
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=thaismarques624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=16&theme=radical)<br/>
+<div>
+  <a href="https://github.com/thaismarques624">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaismarques624&show_icons=true&theme=dracula&include_all_counts=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 ## 💻 Tech Stack
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
