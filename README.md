@@ -3,11 +3,11 @@
 🎲Data Engineer and Analytics sharing my projects with the tech world<br/>
 🎲Studying Computer Engineer at Federal University of Paraiba - Brasil<br/>
 🎲Currently learning about data, universe and rocket engines (propulsion🚀)<br/>
-\\
+
 >**You'll do better if you make other people want to learn - Katherine Johnson**
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=thaismarques624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-\\
+
 # 💻 Tech Stack
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -30,3 +30,9 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<h3 align="left">Connect with me, space travelers 🚀</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriellymarques624@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https:[//www.linkedin.com/in/mari4souza/](https://www.linkedin.com/in/tha%C3%ADs-marques-9b8219174/))
+
