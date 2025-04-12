@@ -1,16 +1,14 @@
-# Hello, my name is Thais Marques ! 
-- Welcome to my profile 👋
-- 🔭 I'm currently working in engineering and data analysis 🎲.🎲
+# Hi, space travelers, I'm Thais! 
 
-## Tools and Technologies
+🎲Data Engineer and Analytics sharing my projects with the tech world
+🎲Studying Computer Engineer at Federal University of Paraiba - Brasil
+🎲Currently learning about data, universe and rocket engines (propulsion) 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>   
+👩🏻‍💻 You'll do better if you make other people want to learn - Katherine Johnson
 
-##
-<div>
-<a href="https://github.com/thaismarques624">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 
 
