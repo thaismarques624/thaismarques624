@@ -12,7 +12,7 @@
 ###
 
 ![](https://github-readme-stats.vercel.app/api?username=thaismarques624&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=16&theme=great-gatsby)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=16&theme=radical)<br/>
 
 ## 💻 Tech Stack
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
