@@ -1,4 +1,9 @@
-# 👋 Hi, space travelers, I'm Thais! 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+👋Hi,+space+travelers,+I'm+Thais!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div> 
+
 
 🎲Data Engineer and Analytics sharing my projects with the tech world<br/>
 🎲Studying Computer Engineer at Federal University of Paraiba - Brasil<br/>
@@ -34,5 +39,5 @@
 <h3 align="left">Connect with me, space travelers 🚀</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriellymarques624@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/tha%C3%ADs-marques-9b8219174/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/tha%C3%ADs-marques-9b8219174/)
 
