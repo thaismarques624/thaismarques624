@@ -14,7 +14,7 @@
 <div>
   <a href="https://github.com/thaismarques624">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaismarques624&show_icons=true&theme=dracula&include_all_counts=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=22&theme=dracula"/>
   </a>
 </div>
 
