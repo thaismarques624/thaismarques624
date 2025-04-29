@@ -1,4 +1,4 @@
-# Hi, space travelers, I'm Thais!
+# Hi, I'm Thais!
 
 🎲Data Engineer and Analytics sharing my projects with the tech world<br/>
 🎲Studying Computer Engineer at Federal University of Paraiba - Brasil<br/>
