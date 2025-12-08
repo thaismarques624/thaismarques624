@@ -7,12 +7,10 @@
 >**You'll do better if you make other people want to learn - Katherine Johnson**
 ###
 
-<div>
-  <a href="https://github.com/thaismarques624">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaismarques624&show_icons=true&theme=dracula&include_all_counts=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismarques624&layout=compact&langs_count=22&theme=dracula"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/thaismarques624?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/thaismarques624">
+</picture>
 
 ## 💻 Tech Stack
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
