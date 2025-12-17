@@ -6,7 +6,6 @@
 ###
 >**You'll do better if you make other people want to learn - Katherine Johnson**
 ###
-___
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/thaismarques624?theme=dark">
