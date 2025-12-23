@@ -1,8 +1,8 @@
 # Hi, I'm Thais!
 
-🎲Data Analytics Engineer sharing my projects with the tech world<br/>
-🎲Studying Computer Engineer at Federal University of Paraiba - Brasil<br/>
-🎲Currently learning about data, universe and rocket engines (propulsion🚀)<br/>
+🎲Data Analytics Engineer jr <br/>
+🎲Graduate in Database Technology at Cruzeiro do Sul <br/>
+
 ###
 >**You'll do better if you make other people want to learn - Katherine Johnson**
 ###
