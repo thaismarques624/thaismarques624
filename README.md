@@ -28,7 +28,6 @@ ___
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🛠️ Frameworks & Ferramentas
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsScript&logoColor=white)
 ![AppSheet](https://img.shields.io/badge/AppSheet-1E88E5?style=for-the-badge&logo=appsheet&logoColor=white)
