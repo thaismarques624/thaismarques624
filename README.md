@@ -7,11 +7,6 @@
 >**You'll do better if you make other people want to learn - Katherine Johnson**
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/thaismarques624?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/thaismarques624">
-</picture>
-
 ___
 
 ## 💻 Tech Stack
